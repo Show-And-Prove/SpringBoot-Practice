@@ -22,7 +22,7 @@ public class DataSourceTest {
     public void test() throws SQLException {
         @Cleanup
         Connection conn = dataSource.getConnection();
-        log.info(conn);
+        /*log.info(conn);*/
         Assertions.assertNotNull(conn);
 
     }

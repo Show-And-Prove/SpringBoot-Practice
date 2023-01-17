@@ -1,0 +1,17 @@
+
+j
+:demo/demo/src/main/java/com/example/demo/domain/Board.java,3\d\3ddb2b3b89478155f4f6c6e3d960ef7f29032b66
+x
+Hdemo/demo/src/main/java/com/example/demo/repository/BoardRepository.java,8\d\8d74d8efe3041767b3e531323eeaefdcc5beae1d
+m
+=demo/demo/src/main/java/com/example/demo/DemoApplication.java,a\4\a4cc04b79b593fe98e0d14ce766b52f84ad3162e
+o
+?demo/demo/src/main/java/com/example/demo/domain/BaseEntity.java,6\c\6cd19808b32e8d54aba70b84d7b81d6ec0f389e5
+l
+<demo/demo/src/test/java/com/example/demo/DataSourceTest.java,b\1\b128f70418cbfd66965ac8155747568e1792cee8
+I
+demo/demo/settings.gradle,c\7\c77d7f3541a311d9ba6ef1394dd986d3c683edaf
+F
+demo/demo/build.gradle,6\0\602c23d2b05cfed43ff3122e9d018baa96b63841
+|
+Ldemo/demo/src/test/java/com/example/demo/repository/BoardRepositoryTest.java,1\e\1e2997eba2d27e21bf9303c0484e210f51998058
