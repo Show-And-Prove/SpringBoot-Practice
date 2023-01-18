@@ -22,10 +22,10 @@ public abstract class BaseEntity {
 
     @CreatedDate
     @Column(name = "regdate", updatable = false)
-    private LocalDateTime regDate;
+    private LocalDateTime regDate = LocalDateTime.now();
 
     @LastModifiedDate
-    @Column(name = "moddate", updatable = false)
-    private LocalDateTime modDate;
+    @Column(name = "moddate")
+    private LocalDateTime modDate = LocalDateTime.now();
 
 }

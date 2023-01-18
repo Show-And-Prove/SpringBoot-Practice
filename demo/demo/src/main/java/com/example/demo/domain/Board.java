@@ -13,7 +13,7 @@ import javax.persistence.*;
 * content varchar(1000) not null,
 * writer varchar(30) not null,
 * regdate datetime default now(),
-* moddate datetime default now
+* moddate datetime default now()
 * );
 *
  */
