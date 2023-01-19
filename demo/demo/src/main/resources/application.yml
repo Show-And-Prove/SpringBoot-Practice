@@ -10,7 +10,7 @@ spring:
       enabled: true  # H2 Console\uC744 \uC0AC\uC6A9\uD560\uC9C0 \uC5EC\uBD80 (H2 Console\uC740 H2 Database\uB97C UI\uB85C \uC81C\uACF5\uD574\uC8FC\uB294 \uAE30\uB2A5)
       path: /h2-console  # H2 Console\uC758 Path
       settings:
-        web-allow-others: true  # AWS에서 h2-console 사용
+        web-allow-others: true  # AWS EC2 환경 에서 h2-console 사용
   # Database Setting Info (Database\uB97C H2\uB85C \uC0AC\uC6A9\uD558\uAE30 \uC704\uD574 H2\uC5F0\uACB0 \uC815\uBCF4 \uC785\uB825)
   datasource:
     driver-class-name: org.h2.Driver  # Database\uB97C H2\uB85C \uC0AC\uC6A9\uD558\uACA0\uB2E4.
